@@ -81,3 +81,23 @@ sequential decision making as standard problem of conditional generative model $
 1. observe state in environment
 2. sample states later with diffusion process conditioned on $y$ and history of last $C$ states observed
 3. identify the action shoule be taken to reach most immediate predicted state
+
+
+RL: behavior cloning (offset dataset)：
+- 模仿 offset dataset 
+
+sub optimality: 
+- 离最优理论的距离
+
+behavioral cloning: 非常依赖于dataset 的质量
+- $C^*$: dataset 的质量
+
+TD: dynamic programming (没有随机性)
+- approximate DP: 有随机性（
+
+日本签
+
+组的服务器到了！
+
+第一步：复现代码，把每个实验重新跑一下
+- 
